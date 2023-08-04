@@ -37,3 +37,4 @@
 * [CFT: Secured WAMP With Aurora - Windows 2016](secured-wamp-with-aurora-on-windows-server-2016.md)
 * [MySql Change Password](mysql-change-password.md)
 * [PHP on cloud](php-on-cloud.md)
+* [test page](test-page.md)
