@@ -1,4 +1,4 @@
-# $Stack\_Name$
+# \[Stack\_Name]
 
 $Link\_To\_Deploy$
 
