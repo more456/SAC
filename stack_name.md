@@ -1,6 +1,6 @@
 # \[Stack\_Name]
 
-$Link\_To\_Deploy$
+\[Link\_To\_Deploy]
 
 {% tabs %}
 {% tab title="Overview" %}
